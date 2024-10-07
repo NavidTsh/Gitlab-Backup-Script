@@ -1,6 +1,6 @@
 #! /bin/bash
 ###########################
-# Backup as GitLab Server
+# Backup of GitLab Server
 # Created By NavidTsh
 # 2024.10.7
 ###########################
